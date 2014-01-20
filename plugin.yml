@@ -1,0 +1,6 @@
+name: NoRain
+main: net.beyonix.mc.bukkit.norain.NoRain
+version: 0.1
+author: beyonix
+description: Prevents rain from starting
+website: https://github.com/beyonix/Bukkit-NoRain
